@@ -1,11 +1,21 @@
-# estudo-dirigido-sinais
-<h1 align="center">Estrutura do Estudo Dirigido no GitHub</h1>
+# <img src="https://www.ifpb.edu.br/static/files/2021/07/ifpb-vertical-cor.png" alt="IFPB Logo" width="150">
+
+# **INSTITUTO FEDERAL DE CIÊNCIAS E TECNOLOGIA DA PARAÍBA**  
+**CURSO:** ENGENHARIA DE COMPUTAÇÃO  
+**DISCIPLINA:** PROCESSAMENTO DIGITAL DE SINAIS  
+**ALUNO:** BRÁULIO MATHEUS BRITO BARBOSA  
+**PROFESSOR:** MOACY PEREIRA DA SILVA  
+**PROJETO:** ESTUDO DIRIGIDO DA DISCIPLINA    
+
+---
+### **OBJETIVO**  
+Realizar o estudo dirigido do livro "Processamento Digital de Sinais Usando MATLAB".
 
 <table>
   <tr>
     <td><b>Parte 1:</b> A transformada-z<br>
       <a href="https://colab.research.google.com/drive/1fehWN_SVL_rAxcISjI9wFhLswbujbALv?usp=sharing">Notebook/Colab</a> | 
-      <a href="#">Vídeos</a> | 
+      <a href="https://www.youtube.com/watch?v=a4ilqPa6l34&list=PLfN7xQ-9PKlgUY-OId4ln9LLPNHIwvGal&index=1">Vídeos</a> | 
       <a href="#">Simulações da Web</a>
     </td>
     <td><b>Parte 2:</b> Transformada Discreta de Fourier<br>
@@ -40,6 +50,4 @@
   </tr>
 </table>
 
-<p align="center">
-  <i>Os conteúdos em colchetes representam os links para a respectiva atividade de cada capítulo.</i>
-</p>
+
