@@ -1,5 +1,3 @@
-# <img src="https://www.ifpb.edu.br/static/files/2021/07/ifpb-vertical-cor.png" alt="IFPB Logo" width="150">
-
 # **INSTITUTO FEDERAL DE CIÊNCIAS E TECNOLOGIA DA PARAÍBA**  
 **CURSO:** ENGENHARIA DE COMPUTAÇÃO  
 **DISCIPLINA:** PROCESSAMENTO DIGITAL DE SINAIS  
