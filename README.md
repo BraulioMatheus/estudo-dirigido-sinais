@@ -42,7 +42,7 @@ Realizar o estudo dirigido do livro "Processamento Digital de Sinais Usando MATL
     </td>
     <td><b>Parte 6:</b> Aplicações em Comunicações<br>
       <a href="https://colab.research.google.com/drive/1uZeGMd7TOrOGDlZ72uMB7wn3_BRWj-cT?usp=sharing">Notebook/Colab</a> | 
-      <a href="#">Vídeos</a> | 
+      <a href="https://www.youtube.com/watch?v=azvvdOWE9NY&list=PLfN7xQ-9PKlgu8Weta-VO7d8lAGQYCFsL">Vídeos</a> | 
       <a href="https://drive.mathworks.com/sharing/c98e2cb8-1efb-4bee-b25a-95fccd4fc389">Simulações da Web</a>
     </td>
   </tr>
