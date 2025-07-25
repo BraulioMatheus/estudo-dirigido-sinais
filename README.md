@@ -18,26 +18,26 @@ Realizar o estudo dirigido do livro "Processamento Digital de Sinais Usando MATL
     </td>
     <td><b>Parte 2:</b> Transformada Discreta de Fourier<br>
       <a href="https://colab.research.google.com/drive/1FQ-KvLXOqOFttxIaf1C6fqDA0naF65Ar?usp=sharing">Notebook/Colab</a> | 
-      <a href="#">Vídeos</a> | 
+      <a href="https://www.youtube.com/watch?v=FRUepguQXRc&list=PLfuiSoAvtFWdDiWmUxA1jIsNEbwZCbyvB">Vídeos</a> | 
       <a href="#">Simulações da Web</a>
     </td>
   </tr>
   <tr>
     <td><b>Parte 3:</b> Implementação de Filtros Discretos no Tempo<br>
       <a href="https://colab.research.google.com/drive/12gqmjwihW_U1kKLvpoMn25R1gDNjAy4Q?usp=sharing">Notebook/Colab</a> | 
-      <a href="#">Vídeos</a> | 
+      <a href="https://www.youtube.com/watch?v=EPaSkzEtNw4&list=PLfN7xQ-9PKlhWRYSZlizXZ7EWorhEH5MG">Vídeos</a> | 
       <a href="#">Simulações da Web</a>
     </td>
     <td><b>Parte 4:</b> Projeto de Filtros FIR<br>
       <a href="https://colab.research.google.com/drive/13uxkEhBDX-QEsWF0XNzt0nIL8Eo0ZWvS?usp=sharing">Notebook/Colab</a> | 
-      <a href="#">Vídeos</a> | 
+      <a href="https://www.youtube.com/watch?v=AG2b2n5kPNU&list=PLfN7xQ-9PKlhIGWYaRlAPQ3RcrFtex0n6">Vídeos</a> | 
       <a href="#">Simulações da Web</a>
     </td>
   </tr>
   <tr>
     <td><b>Parte 5:</b> Projeto de Filtros IIR<br>
       <a href="https://colab.research.google.com/drive/1PmKBWEYGp3S0FrBVzH-HpW0cXvjM8dWZ?usp=sharing">Notebook/Colab</a> | 
-      <a href="#">Vídeos</a> | 
+      <a href="https://www.youtube.com/watch?v=jLnhm4JgmCw">Vídeos</a> | 
       <a href="#">Simulações da Web</a>
     </td>
     <td><b>Parte 6:</b> Aplicações em Comunicações<br>
